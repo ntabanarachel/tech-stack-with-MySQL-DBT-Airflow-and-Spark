@@ -18,10 +18,14 @@ Skills:
 
 Create and maintain Airflow DAGs
 Work with Apache Airflow, dbt, redash  and a DWH
+
 Apply ELT techniques to DWH
+
 Build data pipelines and orchestration workflows
 
 
 Knowledge:
 
-Enterprise-grade data engineering - using Apache and Databricks tools
+Enterprise-grade data engineering 
+
+using Apache and Databricks tools
